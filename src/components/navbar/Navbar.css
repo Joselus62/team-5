@@ -6,7 +6,7 @@ nav{
     font-size: x-large;
     font-style: italic;
     font-family: initial; 
-    padding-left: 5%;     
+    padding-left: 0%;     
 }
 .navLink{
     text-decoration: none;
@@ -26,4 +26,6 @@ nav{
     font-size:medium;
     border-radius:10px;
 }
+
+img{margin-top: 10px; margin-left: 10px;}
  
